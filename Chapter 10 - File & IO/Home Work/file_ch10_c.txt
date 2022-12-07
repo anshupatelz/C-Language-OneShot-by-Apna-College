@@ -1,0 +1,30 @@
+Student - 01
+	Roll No : 101
+	Name : Anshu
+	CGPA : 9.300000
+	Course : CS
+
+Student - 02
+	Roll No : 102
+	Name : Ashish
+	CGPA : 9.030000
+	Course : CSE
+
+Student - 03
+	Roll No : 103
+	Name : Anuraj
+	CGPA : 8.840000
+	Course : ME
+
+Student - 04
+	Roll No : 104
+	Name : Kalpit
+	CGPA : 9.500000
+	Course : CE
+
+Student - 05
+	Roll No : 105
+	Name : Shivam
+	CGPA : 9.100000
+	Course : TI
+
